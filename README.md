@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asfandyarkhanafridi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning laravel
+- 🌱 I’m Laravel Developer
 - 📫 you can reach me via masfandy9@gmail.com
 
 <!---
